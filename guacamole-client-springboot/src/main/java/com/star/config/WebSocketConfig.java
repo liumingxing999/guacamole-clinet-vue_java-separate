@@ -9,7 +9,7 @@ import org.springframework.web.socket.server.standard.ServerEndpointExporter;
 * @Description:
 * @Version:1.0.0
 * @Since:jdk1.8
-* @author pancm
+* @author star
 * @Date  2022/5/12
 **/
 @Configuration
