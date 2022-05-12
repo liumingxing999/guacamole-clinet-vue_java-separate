@@ -1,4 +1,4 @@
-# star
+# default
 
 ## Project setup
 ```
